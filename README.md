@@ -8,6 +8,8 @@ Matricula: 885470
 
 ## Tela de inspeção com navegador
 
+<img src="FerramentaDevThales.png" alt="">
 
 ## Tela de projeto no Replit
 
+<img src="Replit.png" alt="">
